@@ -1,6 +1,8 @@
 # HTTP Status Checker
 HTTP Status Code checking tool open to development written in Python programming language.
 
+There may be errors or omissions. I have just started learning the Python programming language. I do these kinds of projects to reinforce what I have learned.
+
 Some images of the project / Projeye ait bazı görseller :point_down:
 
 <p align="center">
